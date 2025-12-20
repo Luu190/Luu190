@@ -72,7 +72,6 @@ Tecnologías: **Node.js, Express, MongoDB, JavaScript**
 ## 📫 Contáctame
 📧 **lujaeguer19@gmail.com**  
 📍 Ocaña, Norte de Santander  
-🧾 Hoja de vida: *(puedo agregar el link cuando la subas)*  
 
 ---
 
