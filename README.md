@@ -1,83 +1,165 @@
-<h1 align="center">Hola, soy Lucía Balaguera 👋</h1>
-<h3 align="center">Aprendiz de Análisis y Desarrollo de Software | Backend Developer en formación</h3>
+<h1 align="center">¡Hola! Soy Lucía Balaguera 👋</h1>
+
+<h3 align="center">
+Tecnóloga en Análisis y Desarrollo de Software | Full Stack Developer Jr. | Backend • Frontend • QA
+</h3>
 
 ---
 
-## 🚀 Sobre mí  
-Soy aprendiz del programa **ADSO – SENA**, apasionada por el desarrollo backend, la creación de APIs y la lógica detrás de sistemas reales.  
-Actualmente desarrollo **MENTALIA**, una plataforma web con un chatbot psicológico básico que integra Node.js, MongoDB y análisis de mensajes.
+## 👩🏻‍💻 Sobre mí
 
-Me caracterizo por:
-- Aprendizaje rápido  
-- Pensamiento lógico  
-- Adaptabilidad  
-- Atención al detalle  
-- Ganas reales de crecer como desarrolladora backend  
+Soy Tecnóloga en Análisis y Desarrollo de Software del SENA, apasionada por construir soluciones tecnológicas y aprender constantemente.
+
+Me interesa participar en proyectos de desarrollo web, backend, frontend, APIs, calidad de software (QA) y bases de datos. Disfruto enfrentar nuevos retos, resolver problemas mediante programación y desarrollar aplicaciones con buenas prácticas.
+
+Actualmente continúo fortaleciendo mis conocimientos en TypeScript, Docker, arquitectura de software y desarrollo Full Stack.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+# 🚀 Tecnologías
 
-### **Lenguajes**
-- JavaScript  
-- PHP  
+## 💻 Lenguajes
+
+- JavaScript
+- PHP
 - Java (básico)
+- SQL
+- TypeScript (aprendiendo)
 
-### **Frontend**
-- HTML · CSS · Bootstrap  
+## 🎨 Frontend
 
-### **Backend**
-- Node.js · Express  
-- APIs REST  
-- Validaciones  
-- Pruebas con Postman  
+- React
+- HTML5
+- CSS3
+- Bootstrap
+- Vite
 
-### **Bases de datos**
-- MongoDB  
-- MySQL (básico)  
+## ⚙️ Backend
 
-### **Herramientas**
-- Git y GitHub  
-- Figma  
-- Postman  
+- Node.js
+- Express.js
+- APIs REST
+- JWT
+- Autenticación
+- SMTP
+- Validaciones
+- Middleware
 
----
+## 🗄️ Bases de datos
 
-## 📌 Proyecto principal
+- MongoDB
+- MySQL
 
-### 🔹 **MENTALIA – Plataforma Web de Apoyo Emocional (En desarrollo)**
-🌐 *Chatbot psicológico básico + backend + base de datos*  
-Tecnologías: **Node.js, Express, MongoDB, JavaScript**
+## ☁️ Cloud & Deployment
 
-**Mis funciones:**
-- Implementación del backend completo.  
-- Creación de modelos y base de datos (usuarios, sesiones, mensajes).  
-- Diseño de rutas y API REST para autenticación y conversación.  
-- Desarrollo del chatbot basado en lógica condicional.  
-- Pruebas del backend con Postman.  
-- Documentación y levantamiento de requisitos.
+- Firebase Hosting
+- Firebase Authentication
+- Vercel
 
-> Cuando el proyecto esté listo, agregaré el enlace al repositorio ✨
+## 🧰 Herramientas
 
----
-
-## 📚 Actualmente aprendiendo
-- React  
-- Integración frontend–backend  
-- Arquitectura de software  
-- Chatbots más avanzados  
+- Git
+- GitHub
+- Postman
+- Figma
+- VS Code
+- ESLint
 
 ---
 
-## 📫 Contáctame
-📧 **lujaeguer19@gmail.com**  
-📍 Ocaña, Norte de Santander  
+# 📂 Proyectos Destacados
+
+## 🧠 MENTALIA
+
+Plataforma web de apoyo emocional desarrollada como proyecto académico.
+
+### Características
+
+- Backend desarrollado con Node.js y Express
+- API REST
+- Sistema de autenticación
+- MongoDB
+- Gestión de usuarios
+- Gestión de sesiones
+- Chatbot basado en lógica condicional
+- Integración con SMTP para envío de correos
+
+**Tecnologías**
+
+Node.js • Express • MongoDB • JWT • SMTP • JavaScript
 
 ---
 
-## 🌟 Mi objetivo
-Conseguir una oportunidad de **etapa productiva** donde pueda aportar con mis conocimientos en backend, aprender tecnologías nuevas y seguir creciendo como desarrolladora de software.
+## 🔐 React Auth App
+
+Aplicación web desarrollada con React que implementa autenticación mediante Firebase.
+
+### Características
+
+- Inicio de sesión con Google
+- Registro de usuarios
+- Recuperación de contraseña
+- React Router
+- Componentes reutilizables
+- Diseño responsive
+
+🔗 Demo
+
+https://mi-proyecto-react-52faa.web.app/
+
+**Tecnologías**
+
+React • Firebase Authentication • Firebase Hosting • React Router • CSS
 
 ---
 
-⭐ *Gracias por visitar mi GitHub. Estoy en constante aprendizaje y mejora.*  
+## 📝 Formulario React
+
+Aplicación desarrollada con React y Vite aplicando arquitectura modular y reutilización de componentes.
+
+Características:
+
+- Login
+- Registro
+- Recuperación de contraseña
+- Componentes reutilizables
+- Organización escalable del proyecto
+
+---
+
+# 📖 Actualmente aprendiendo
+
+- TypeScript
+- Docker
+- Arquitectura de Software
+- Patrones de Diseño
+- Algoritmos y Estructuras de Datos
+- Microservicios
+- Azure
+- AWS
+
+---
+
+# 🎯 Objetivos
+
+Mi objetivo es desarrollarme como Ingeniera de Software especializada en tecnologías Backend y Full Stack, participando en proyectos desafiantes y construyendo aplicaciones escalables y de alta calidad.
+
+---
+
+# 📫 Contacto
+
+📧 **Correo**
+
+**lujaeguer19@gmail.com**
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/lucia-balaguera-b4a42639b/
+
+🌎 **Ubicación**
+
+Medellín, Colombia
+
+---
+
+⭐ Siempre estoy aprendiendo nuevas tecnologías y desarrollando proyectos que fortalezcan mis habilidades.
